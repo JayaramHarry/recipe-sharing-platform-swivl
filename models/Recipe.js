@@ -1,4 +1,3 @@
-// Recipe.js - Recipe Class
 
 const mongoose = require('mongoose');
 
